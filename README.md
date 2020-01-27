@@ -1,2 +1,1 @@
-"# walk"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/sadekbp/walk.git git push -u origin master
-"# walk" 
+In this example, instead of generating the results of throwing a special dice which has 4 sides for North, South, East and West at each step, the random dice results are generated with numpy arrays before hand (Which is still random) to make the random walk experiments work faster.
